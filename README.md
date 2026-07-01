@@ -9,3 +9,5 @@ For Drivers and Utilities go to PIXIS-CODE.
 For CAD files go to PIXIS-CAD.
 
 For How To's and Guides go to PIXIS-HOWTO.
+
+For Projects go to PIXIS_PROJECTS.

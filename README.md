@@ -2,7 +2,7 @@
 
 This is the Public repository for all things PIXIS.
 
-Assembly Instructions and other useful information.
+Here you will find Assembly Instructions for CB-1 and CB-2 and other useful information.
 
 For Drivers and Utilities go to PIXIS-CODE.
 
